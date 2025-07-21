@@ -57,3 +57,24 @@ Mitron Bank is exploring the launch of a new credit card product and provided a 
 
 ## Preview
 
+### 🔹 Home Page  
+![Home Page](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/HomePage.png)
+
+### 🔹 Demographic Overview  
+![Demographic Page](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/DemographicPage.png)
+
+### 🔹 Income Analysis  
+![Income Page](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/IncomePage.png)
+
+### 🔹 Expenditure Analysis  
+![Expenditure Page](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/ExpenditurePage.png)
+
+### 🔹 Income Utilisation  
+![Utilisation Page](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/UtilisationPage.png)
+
+### 🔹 Report Page 1  
+![Report Page 1](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/ReportPage1.png)
+
+### 🔹 Report Page 2  
+![Report Page 2](https://github.com/stevensie09/Banking-Analytics-Dashboard/blob/main/ReportPage2.png)
+
